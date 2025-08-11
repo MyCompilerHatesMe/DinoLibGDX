@@ -1,0 +1,8 @@
+fonts/NerdMono.ttf
+libgdx.png
+sprites/cactus1.png
+sprites/cactus2.png
+sprites/cactus3.png
+sprites/cactus4.png
+sprites/cactusshort.png
+sprites/dino.png
