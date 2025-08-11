@@ -5,10 +5,13 @@ A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://git
 Its a basic dino clone.
 
 Cacti taken from wikipedia.
+
 Dino taken from pngegg and edited liberally.
 
 Space to jump
+
 R to restart
+
 ESC to exit.
 
 
