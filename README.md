@@ -2,7 +2,10 @@
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
-Its a basic dino clone lol.
+Its a basic dino clone.
+
+Cacti taken from wikipedia.
+Dino taken from pngegg and edited liberally.
 
 
 ## Platforms
