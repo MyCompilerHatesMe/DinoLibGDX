@@ -7,6 +7,10 @@ Its a basic dino clone.
 Cacti taken from wikipedia.
 Dino taken from pngegg and edited liberally.
 
+Space to jump
+R to restart
+ESC to exit.
+
 
 ## Platforms
 
